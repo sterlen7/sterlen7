@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Job Api**
 
-- 🌱 I’m currently learning **Nodejs/Expressjs**
+- 🌱  **Nodejs/Expressjs**
 
 - 📝 I regularly write articles on [https://dev.to/mohammed_habib](https://dev.to/mohammed_habib)
 
